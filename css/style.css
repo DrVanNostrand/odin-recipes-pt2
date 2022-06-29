@@ -24,11 +24,13 @@ h4 {
 
 ol {
     background-color: cornflowerblue;
-    color: whitesmoke
+    color: whitesmoke;
+    font-weight: bold;
 }
 
 ul {
     background-color: darkgoldenrod;
+    font-weight: bold;
 }
 
 img {
